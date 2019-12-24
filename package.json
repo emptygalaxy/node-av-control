@@ -1,0 +1,16 @@
+{
+  "name": "av-control",
+  "version": "0.0.1",
+  "dependencies": {
+    "barco-event-controller": "^0.1.14",
+    "csvtojson": "^2.0.10",
+    "midi": "^1.0.0"
+  },
+  "description": "A module used for controlling AV equipment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "Nick Timman",
+  "license": "ISC"
+}
